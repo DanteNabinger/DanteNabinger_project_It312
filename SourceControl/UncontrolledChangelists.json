@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Maps/TestEnviroment.umap",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Interactables/BP_Collectible_Pickup.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Player/BP_GameMode.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Inputs/Input_Look.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Interactables/Animated_Interactables/BP_Door.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Enemy/Turret/BP_Turret.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer/Content/Enemy/Turret/BP_Turret_Projectile.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/TestEnviroment.umap",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Interactables/Animated_Interactables/MAT_Color.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Interactables/Animated_Interactables/BP_Door.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Interactables/Animated_Interactables/BP_Button.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/_GENERATED/the3s/Box_1BCA79ED.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/_GENERATED/the3s/Cone_96BAB7C9.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Enemy/Turret/BP_Turret.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/5-2.umap",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/_GENERATED/the3s/Box_0F803309.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/_GENERATED/the3s/Box_A382D1EF.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/_GENERATED/the3s/Box_B7D25899.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Menu/MainMenu_W.uasset",
+				"C:/Users/the3s/OneDrive/Documents/Unreal Projects/nabingerplatformer/nabingerplatformer 5.7/Content/Maps/alphalevel.umap"
+			]
+		}
+	]
+}
